@@ -3,7 +3,7 @@ const surpriseButton = document.getElementById("surprise-btn");
 const heartbeat = document.getElementById("heartbeat");
 
 // 🎯 Countdown target: January 6, 2026
-const targetDate = new Date("Jan 6, 2026 00:00:00").getTime();
+const targetDate = new Date("Nov 17, 2025 00:06:00").getTime();
 
 // 🔊 Play heartbeat after user click (autoplay restrictions)
 document.body.addEventListener(
